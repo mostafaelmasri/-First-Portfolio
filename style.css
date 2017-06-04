@@ -208,6 +208,8 @@ body {
   display: inline-block;
   margin: 0 auto;
   padding-left: 0;
+        padding: 20px;
+
 }
 
 #cont {
@@ -308,6 +310,8 @@ transition:all .6s ease-in-out;
 .footer {
   background: #061D25;
   padding: 10px 0;
+        margin-top: 203px;
+
 }
 .footer a {
   color: #fff;
